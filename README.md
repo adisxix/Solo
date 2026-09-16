@@ -1,6 +1,6 @@
-# SOLO
+# Solo
 
-SOLO is a modern and minimal landing page designed for travel websites. It provides a simple way to showcase destinations, offers, and travel experiences.
+Solo is a modern and minimal landing page designed for travel websites. It provides a simple way to showcase destinations, offers, and travel experiences.
 
 # Features
 - Responsive hero section with travel imagery
