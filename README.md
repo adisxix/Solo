@@ -1,4 +1,4 @@
-# SOLO_Landing_Page
+# SOLO
 
 SOLO is a modern and minimal landing page designed for travel websites. It provides a simple way to showcase destinations, offers, and travel experiences.
 
